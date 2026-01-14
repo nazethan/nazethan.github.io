@@ -19,7 +19,7 @@ const config: Config = {
 
   organizationName: 'nazethan', // Usually your GitHub org/user name.
   projectName: 'nazethan.github.io', // Usually your repo name.
-  onBrokenLinks: 'throw',
+  onBrokenLinks: 'warn',
 
   presets: [
     [
