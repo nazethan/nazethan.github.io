@@ -14,7 +14,7 @@ const config: Config = {
     v4: true, // Improve compatibility with the upcoming Docusaurus v4
   },
 
-  url: 'https://nazethan.github.io',
+  url: 'https://ethanlabs.netlify.app/', // Your website URL
   baseUrl: '/',
 
   organizationName: 'nazethan', // Usually your GitHub org/user name.
